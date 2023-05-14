@@ -41,3 +41,27 @@ main{
 main img{
     width: 100%;
 }
+
+main a{
+    color: #af1313;
+    text-decoration: none;
+}
+
+main a:hover{
+    color: #282f3f;
+    transition: ease-out 700ms;
+    font-size: 25px;
+}
+
+footer{
+    background-color: #af1313;
+    padding: 20px;
+    margin: 0px;
+    text-align: center;
+    color: white;
+}
+
+footer a{
+    color: white;
+    text-decoration: none;
+}
