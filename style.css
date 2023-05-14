@@ -1,0 +1,43 @@
+body{
+    margin: 0px;
+    font-family: helvetica, Arial, sans-serif;
+    line-height: 30px;
+    font-size: 18px;
+}
+
+header{
+    background-color: #af1313;
+    padding: 20px;
+    margin: 0px;
+    text-align: center;
+}
+
+h1, h2{
+    font-family: 'Ninja Naruto', sans-serif;
+}
+header img{
+    border-radius: 180px;
+    width: 300px;
+    border: white 13px solid;
+}
+
+header h1{
+    color: white;
+    text-align: center;
+}
+
+main{
+    padding: 20px;
+    margin: 0px auto;
+    max-width: 800px;
+}
+
+.caption{
+    color: gray;
+    font-style: italic;
+    margin-top: 0px;
+}
+
+main img{
+    width: 100%;
+}
